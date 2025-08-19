@@ -4,7 +4,7 @@
   <img src="https://drive.google.com/uc?export=view&id=1KvWT7JU8iYAhCEeOguLqZjqqID2_LZjT" alt="CS2 Banner" width="90%">
 </p>
 
-Proyek ini merupakan implementasi dari penelitian **Analisis Sentimen Komunitas Counter-Strike 2 (CS2) Menggunakan Support Vector Machine (SVM).  
+Proyek ini merupakan implementasi dari penelitian **Analisis Sentimen Komunitas Counter-Strike 2 (CS2) Menggunakan Support Vector Machine (SVM)**.  
 Fokus penelitian adalah mengklasifikasikan ulasan pemain di **Steam** menjadi tiga kategori: **positif, negatif, netral** menggunakan metode **Text Mining + TF-IDF + SVM**.
 
 ---
