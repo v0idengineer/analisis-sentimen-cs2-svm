@@ -17,7 +17,7 @@ Model **SVM (One-vs-Rest)** digunakan untuk klasifikasi.
 - Akurasi tanpa SMOTE: **81,95%**  
 - Akurasi dengan SMOTE: **82,18%**  
 
-Penelitian ini membuktikan potensi SVM dalam analisis sentimen berbasis teks..
+Penelitian ini membuktikan potensi SVM dalam analisis sentimen berbasis teks.
 
 ---
 
@@ -33,3 +33,19 @@ analisis-sentimen-cs2-svm/
 ├─ requirements.txt          
 ├─ LICENSE                   
 └─ README.md
+
+---
+
+## ☁️ Word Cloud
+
+### Aspek Gameplay
+<img src="https://drive.google.com/uc?export=view&id=1-ORboUpXN3T9UZXhFsJ410UmC6rE-hAD" alt="Word Cloud Gameplay" width="70%">
+
+### Aspek Performa
+<img src="https://drive.google.com/uc?export=view&id=1d9Dn2HmYKp7QUedGh1xkleLAStejVdju" alt="Word Cloud Performa" width="70%">
+
+### Aspek Visualisasi
+<img src="https://drive.google.com/uc?export=view&id=1FbD8fMz8Fzf-T6E7EZYC72FGyi2JpNEy" alt="Word Cloud Visualisasi" width="70%">
+
+### Aspek Pemain
+<img src="https://drive.google.com/uc?export=view&id=10uTjMquuhbqv6ut7_CzrrINo1oSMAYoX" alt="Word Cloud Pemain" width="70%">
